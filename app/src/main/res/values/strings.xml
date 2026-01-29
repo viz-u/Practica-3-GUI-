@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Operaciones_22130008</string>
+    <string name="num1">Numero 1</string>
+    <string name="num2">Numero 2</string>
+    <string name="num3">Numero 3</string>
+    <string name="cal">Calculo</string>
+    <string name="tipo">Tipo de Triangulo</string>
+</resources>
